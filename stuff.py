@@ -1,1 +1,2 @@
-
+VARIABLE = "no"
+print(VARIABLE)
